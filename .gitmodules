@@ -1,3 +1,6 @@
 [submodule "lib/stm32lib"]
 	path = lib/stm32lib
 	url = https://github.com/micropython/stm32lib.git
+[submodule "lib/STM32CubeF1"]
+	path = lib/STM32CubeF1
+	url = https://github.com/STMicroelectronics/STM32CubeF1.git
